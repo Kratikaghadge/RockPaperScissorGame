@@ -12,9 +12,9 @@ Score Tracking: Keep track of your wins against the computer with a visible scor
 
 Engaging Messages: Receive informative and entertaining messages throughout the game.
 
-How to Play
+<b>How to Play</b>
 
-Choose Your Move:
+<b>Choose Your Move:</b>
 
 Click on the Rock, Paper, or Scissors images to make your move.
 Game Result:
