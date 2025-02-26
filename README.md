@@ -20,6 +20,7 @@ Click on the Rock, Paper, or Scissors images to make your move.
 Game Result:
 
 The game will determine the winner based on your choice and the computer's random move.
+
 Score Updates:
 
 Track your score to see who is dominating the Rock, Paper, Scissors battlefield.
